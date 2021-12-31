@@ -37,3 +37,22 @@ a:active{
 body{
     background-color: white;
 }
+.button{
+    font-family: Cascadia Code;
+    font-size: 20px;
+    border: 1px black;
+    border-width: 15px;
+}
+.button:link{
+    color: black;
+    text-decoration: none;
+}
+.button:hover{
+    color: black;
+    text-decoration: none;
+}
+.button:active{
+    color: black;
+    text-decoration: none;
+}
+
